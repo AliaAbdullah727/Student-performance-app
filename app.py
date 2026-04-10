@@ -80,7 +80,7 @@ def main():
 
     st.title('📘 Student Performance Predictor')
     st.write(
-        'This Streamlit app uses your notebook\'s linear regression workflow to predict a student\'s exam score '
+        'This Streamlit app uses linear regression workflow to predict a student\'s exam score '
         'from study habits, lifestyle, attendance, and related factors.'
     )
 
